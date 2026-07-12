@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Abhishek Singh Chauhan
 
-<!--
-**Abhishek-coder-756/Abhishek-coder-756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🎓 B.Tech CSE (Artificial Intelligence & Machine Learning)
+- 🏫 Quantum University
+- 💻 Machine Learning Intern at Samatrix
+- 🏆 Visionary Award Winner – QHackathon
+- 🌱 Currently learning Data Structures & Algorithms and Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+
+- C
+- C++
+- Python
+- Java
+- SQL
+- Machine Learning
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🔗 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/abhishek-singh-chauhan-126953324/
+- 💻 GitHub: https://github.com/Abhishek-coder-756
+- 🧠 LeetCode: https://leetcode.com/u/abhishek-singh-chauhan/
+
+---
